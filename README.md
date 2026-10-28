@@ -6,7 +6,7 @@
 
 </div>
 
-Software Engineer at **Cognizant** (4.5+ years) moving into **Applied AI / ML Engineering**. I build Python, SQL and Google Cloud systems that take messy enterprise data and make it searchable, reportable and automated, and I'm currently doing an **M.Sc. in Data Science (Explainable AI)** at Liverpool John Moores University.
+Software Engineer at **Cognizant** (~5 years) moving into **Applied AI / ML Engineering**. I build Python, SQL and Google Cloud systems that take messy enterprise data and make it searchable, reportable and automated, and I'm currently doing an **M.Sc. in Data Science (Explainable AI)** at Liverpool John Moores University.
 
 ## What I'm working on
 
